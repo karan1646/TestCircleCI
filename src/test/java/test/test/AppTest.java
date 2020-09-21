@@ -1,3 +1,17 @@
+package test.test;
+
+/**
+ * Hello world!
+ *
+ */
+public class AppTest 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}
+
 //package test.test;
 //
 //import java.sql.Driver;
@@ -39,16 +53,3 @@
 //	}
 //	
 //}
-package test.test;
-
-/**
- * Hello world!
- *
- */
-public class AppTest 
-{
-    public static void main( String[] args )
-    {
-        System.out.println( "Hello World!" );
-    }
-}
